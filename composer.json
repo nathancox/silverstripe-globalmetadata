@@ -1,0 +1,17 @@
+{
+	"name": "room9/globalmetadata",
+	"description": "Allows setting global MetaTitle and MetaDescription fields that can be overridden on individual pages.",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "cms", "metadata"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Nathan Cox",
+            "email": "nathan@room9.co.nz"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "~3.2",
+        "silverstripe/cms": "~3.2"
+	}
+}

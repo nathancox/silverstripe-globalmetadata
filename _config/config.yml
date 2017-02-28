@@ -1,0 +1,11 @@
+---
+Name: globalmetadata
+---
+
+SiteConfig:
+  extensions:
+    - GlobalMetadataConfigExtension
+
+Page:
+  extensions:
+    - GlobalMetadataPageExtension
