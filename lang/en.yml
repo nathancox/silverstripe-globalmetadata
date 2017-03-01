@@ -1,0 +1,5 @@
+en:
+  GlobalMetaData:
+    DefaultExplanation: 'These default values can be overwritten on individual pages.'
+    MetaTitleLabel: 'Page title'
+    MetaDescriptionLabel: 'Meta description'
